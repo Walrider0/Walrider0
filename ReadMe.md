@@ -12,4 +12,10 @@ Your typical beginner Programmer. <br><br>Currently studying in college.<br><br>
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Walrider0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Walrider0/Walrider0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Walrider0/Walrider0/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/Walrider0/Walrider0/github-snake.svg" />
+</picture>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
